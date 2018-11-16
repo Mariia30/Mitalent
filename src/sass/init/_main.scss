@@ -1,0 +1,14 @@
+html, body{
+  height: 100%;
+}
+.wrapper{
+  position: relative;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.site-content{
+  background: grey;
+  position: relative;
+  margin: 0 0 auto;
+}
